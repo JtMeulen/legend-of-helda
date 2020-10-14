@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a64460daee6e84c0b99dead388b34466, type: 3}
+  m_Name: 1 coin 1 heart
+  m_EditorClassIdentifier: 
+  lootTable:
+  - item: {fileID: 5832004019540948175, guid: b461d6181426145759b1934e802d0fd7, type: 3}
+    lootChance: 75
+  - item: {fileID: 2558927235020231373, guid: 49f22379bcca64ae0aa1619dc5b4c8e3, type: 3}
+    lootChance: 20

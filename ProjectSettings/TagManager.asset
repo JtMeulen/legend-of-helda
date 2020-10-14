@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - breakable
+  - enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy Projectile
+  - Enemy
+  - Boundaries
+  - Rooms
+  - Player
+  - PlayerProjectile
+  - Collectable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 1378905179
+    locked: 0
+  - name: Collision
+    uniqueID: 4142946969
+    locked: 0
+  - name: Player
+    uniqueID: 2390828949
+    locked: 0
+  - name: Overlay
+    uniqueID: 335316031
+    locked: 0

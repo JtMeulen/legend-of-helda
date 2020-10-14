@@ -1,0 +1,778 @@
+fileFormatVersion: 2
+guid: d509e7a0bc483401abfd6cd5897dc216
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -706767587479780343
+    second: blue_link_attack_0
+  - first:
+      213: -318853547111485383
+    second: blue_link_attack_1
+  - first:
+      213: -3614255413680209337
+    second: blue_link_attack_2
+  - first:
+      213: -8537314856848037748
+    second: blue_link_attack_3
+  - first:
+      213: -6142279434422126371
+    second: blue_link_attack_4
+  - first:
+      213: -5325366261853879705
+    second: blue_link_attack_5
+  - first:
+      213: -5139068080605860002
+    second: blue_link_attack_6
+  - first:
+      213: 5316596872227793838
+    second: blue_link_attack_7
+  - first:
+      213: 5256086461020336277
+    second: blue_link_attack_8
+  - first:
+      213: 1389152949200998760
+    second: blue_link_attack_9
+  - first:
+      213: -3991416910807834507
+    second: blue_link_attack_10
+  - first:
+      213: -6568457519604815678
+    second: blue_link_attack_11
+  - first:
+      213: -6111917096215670623
+    second: blue_link_attack_12
+  - first:
+      213: -703415541385272092
+    second: blue_link_attack_13
+  - first:
+      213: 3988683302846148430
+    second: blue_link_attack_14
+  - first:
+      213: 8994475619781088985
+    second: blue_link_attack_15
+  - first:
+      213: -6309500715114473112
+    second: blue_link_attack_16
+  - first:
+      213: 8607392327390739824
+    second: blue_link_attack_17
+  - first:
+      213: -264676987951645055
+    second: blue_link_attack_18
+  - first:
+      213: -793787172076669794
+    second: blue_link_attack_19
+  - first:
+      213: -5378211479134548243
+    second: blue_link_attack_20
+  - first:
+      213: -1538703270372467970
+    second: blue_link_attack_21
+  - first:
+      213: 7373963452398620456
+    second: blue_link_attack_22
+  - first:
+      213: -432014863235933052
+    second: blue_link_attack_23
+  - first:
+      213: 1480951260910807880
+    second: blue_link_attack_24
+  - first:
+      213: -6827677993024635747
+    second: blue_link_attack_25
+  - first:
+      213: -93424523162270271
+    second: blue_link_attack_26
+  - first:
+      213: -6692626495976804207
+    second: blue_link_attack_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blue_link_attack_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 123
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.28877544, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9040281bf9e0136f0800000000000000
+      internalID: -706767587479780343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_link_attack_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 122
+        width: 23
+        height: 25
+      alignment: 9
+      pivot: {x: 0.32599342, y: 0.4893274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930fb056364339bf0800000000000000
+      internalID: -318853547111485383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_link_attack_2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 122
+        width: 23
+        height: 34
+      alignment: 9
+      pivot: {x: 0.27959177, y: 0.3665951}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7420f04b9d597ddc0800000000000000
+      internalID: -3614255413680209337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_link_attack_3
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 122
+        width: 16
+        height: 36
+      alignment: 9
+      pivot: {x: 0.46664906, y: 0.33694968}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8868edce5d558980800000000000000
+      internalID: -8537314856848037748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_link_attack_4
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 122
+        width: 20
+        height: 33
+      alignment: 9
+      pivot: {x: 0.62006456, y: 0.36255252}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8f418c56d32caa0800000000000000
+      internalID: -6142279434422126371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_link_attack_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 122
+        width: 28
+        height: 26
+      alignment: 9
+      pivot: {x: 0.7001076, y: 0.40764266}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762895f899f7816b0800000000000000
+      internalID: -5325366261853879705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_link_attack_6
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 122
+        width: 31
+        height: 24
+      alignment: 9
+      pivot: {x: 0.74959636, y: 0.4332975}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f60f20fcc5ea8b0800000000000000
+      internalID: -5139068080605860002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_link_attack_7
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 76
+        width: 20
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5669647, y: 0.351185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab271fcfa858c940800000000000000
+      internalID: 5316596872227793838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_link_attack_8
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 76
+        width: 26
+        height: 23
+      alignment: 9
+      pivot: {x: 0.6674159, y: 0.4272106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5907bd1d9ce51f840800000000000000
+      internalID: 5256086461020336277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_link_attack_9
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 76
+        width: 33
+        height: 23
+      alignment: 9
+      pivot: {x: 0.6420501, y: 0.4126524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861dfcb4f33474310800000000000000
+      internalID: 1389152949200998760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_link_attack_10
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 76
+        width: 34
+        height: 22
+      alignment: 9
+      pivot: {x: 0.6871122, y: 0.4239016}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570efc09773ab98c0800000000000000
+      internalID: -3991416910807834507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_link_attack_11
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 75
+        width: 29
+        height: 23
+      alignment: 9
+      pivot: {x: 0.6847355, y: 0.4272103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c826b5efa628d4a0800000000000000
+      internalID: -6568457519604815678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_link_attack_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 69
+        width: 23
+        height: 30
+      alignment: 9
+      pivot: {x: 0.6455795, y: 0.5223226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a09d6788cb1e2ba0800000000000000
+      internalID: -6111917096215670623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_link_attack_13
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 66
+        width: 16
+        height: 33
+      alignment: 9
+      pivot: {x: 0.4581432, y: 0.5710257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4ed3eba47fc36f0800000000000000
+      internalID: -703415541385272092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_link_attack_14
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 66
+        width: 16
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5418568, y: 0.5710257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f2dabb456aa5730800000000000000
+      internalID: 3988683302846148430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_link_attack_15
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 69
+        width: 23
+        height: 30
+      alignment: 9
+      pivot: {x: 0.3544205, y: 0.5223226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d696f1ebebc2dc70800000000000000
+      internalID: 8994475619781088985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_link_attack_16
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 75
+        width: 29
+        height: 23
+      alignment: 9
+      pivot: {x: 0.3152645, y: 0.4272103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869578d57862078a0800000000000000
+      internalID: -6309500715114473112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_link_attack_17
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 76
+        width: 34
+        height: 22
+      alignment: 9
+      pivot: {x: 0.3128878, y: 0.4239016}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d3c84c7b9937770800000000000000
+      internalID: 8607392327390739824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_link_attack_18
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 76
+        width: 33
+        height: 23
+      alignment: 9
+      pivot: {x: 0.3579499, y: 0.4126524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18efbe88eada35cf0800000000000000
+      internalID: -264676987951645055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_link_attack_19
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 76
+        width: 26
+        height: 23
+      alignment: 9
+      pivot: {x: 0.3325841, y: 0.4272106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94bb1dc5c6ebf4f0800000000000000
+      internalID: -793787172076669794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_link_attack_20
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 76
+        width: 20
+        height: 27
+      alignment: 9
+      pivot: {x: 0.4330353, y: 0.351185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deec14b9721cc55b0800000000000000
+      internalID: -5378211479134548243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_link_attack_21
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 29
+        width: 25
+        height: 25
+      alignment: 9
+      pivot: {x: 0.617918, y: 0.46630844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa97ba278d65aae0800000000000000
+      internalID: -1538703270372467970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_link_attack_22
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 25
+        width: 21
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5200537, y: 0.542113}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82fcee6e0b4955660800000000000000
+      internalID: 7373963452398620456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_link_attack_23
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 18
+        width: 21
+        height: 39
+      alignment: 9
+      pivot: {x: 0.6002702, y: 0.55399144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c122355cc210af0800000000000000
+      internalID: -432014863235933052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_link_attack_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 41
+      alignment: 9
+      pivot: {x: 0.44735718, y: 0.5410863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b614c43556d8410800000000000000
+      internalID: 1480951260910807880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_link_attack_25
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 19
+        width: 21
+        height: 36
+      alignment: 9
+      pivot: {x: 0.379675, y: 0.5467927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9cb3093a073f31a0800000000000000
+      internalID: -6827677993024635747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_link_attack_26
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 21
+        width: 28
+        height: 31
+      alignment: 9
+      pivot: {x: 0.27439064, y: 0.540755}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c54a9324e614bef0800000000000000
+      internalID: -93424523162270271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_link_attack_27
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 28
+        width: 30
+        height: 24
+      alignment: 9
+      pivot: {x: 0.26135558, y: 0.3947158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1907fe439a30f13a0800000000000000
+      internalID: -6692626495976804207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
