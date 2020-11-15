@@ -65,8 +65,6 @@ public class PlayerMovement : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.Space) && canAttack() )
         {
-            Debug.Log(inventory.CheckForItem(swordItem));
-            Debug.Log(currentState);
             if(inventory.CheckForItem(swordItem))
             {
                 StartCoroutine(AttackCoroutine());
